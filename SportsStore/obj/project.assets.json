@@ -8,23 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\82788\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\falle\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\test-projects\\dotnet\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "D:\\TestProjects\\netcore\\learn-dotnet7-asp.net-store\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "E:\\test-projects\\dotnet\\SportsSln\\SportsStore\\SportsStore.csproj",
-      "packagesPath": "C:\\Users\\82788\\.nuget\\packages\\",
-      "outputPath": "E:\\test-projects\\dotnet\\SportsSln\\SportsStore\\obj\\",
+      "projectPath": "D:\\TestProjects\\netcore\\learn-dotnet7-asp.net-store\\SportsStore\\SportsStore.csproj",
+      "packagesPath": "C:\\Users\\falle\\.nuget\\packages\\",
+      "outputPath": "D:\\TestProjects\\netcore\\learn-dotnet7-asp.net-store\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\82788\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\falle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -74,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

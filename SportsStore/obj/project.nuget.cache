@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/6b3Gss3OM=",
+  "dgSpecHash": "4pzNnS2gC0c=",
   "success": true,
-  "projectFilePath": "E:\\test-projects\\dotnet\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "D:\\TestProjects\\netcore\\learn-dotnet7-asp.net-store\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
