@@ -7,5 +7,13 @@
                 <small>@Model.Price.ToString("c")</small>
             </span>
         </h4>
-    </div> <div class="card-text p-1">@Model.Description</div>
+    </div>
+    <form id="@Model.ProductID" asp-page="/Cart" method="post">
+        <input type="hidden" asp-for="ProductID" />
+        <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+        <div class="card-text p-1">
+            @Model.Description
+            <button type="submit" class="btn btn-success btn-sm pull-right" style="float:right">Add to Cart</button>
+        </div>
+    </form>
 </div>
